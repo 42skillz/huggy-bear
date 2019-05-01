@@ -7,6 +7,7 @@ The following list has been made by one of the finest gourmand you can find in t
 ![group](./group.jpg): group friendly
 
 ---
+
 # AFRICAN FOOD
 
 ### WALY-FAY (NY-STYLE LOFT, JAZZ AND TOP-NOTCH WEST AFRICAN CUISINE) ![radis](./radis.gif) ![group](./group.jpg)
@@ -22,6 +23,7 @@ __Recommended by:__ [@tpierrain](https://www.twitter.com/tpierrain)
 
 
 ---
+
 # FRENCH FOOD
 
 ### Le jardin d'en face (simple but WELL-CRAFTED cuisine in MONTMARTRE)
@@ -66,6 +68,7 @@ __Recommended by:__ [@tpierrain](https://www.twitter.com/tpierrain) and [@brunob
 
 
 ---
+
 # VEGGIE-VEGAN FOOD
 
 ### Le potager du Marais (Best VEGGIE restaurant in PARIS?) ![radis](./radis.gif) 
@@ -136,7 +139,7 @@ __Price:__ cheap
 
 __Reservation:__ 
 
-__Address:__ 
+__Address:__ 51 Rue Louis Blanc, 75010 Paris - +33 1 42 09 35 84
 
 __Recommended by:__ [@tpierrain](https://www.twitter.com/tpierrain) 
 
