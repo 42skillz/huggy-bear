@@ -102,6 +102,16 @@ __Recommended by:__ [@ldoguin](https://mobile.twitter.com/ldoguin) and [@tpierra
 —-
 # Indian food
 
+### BHARATH (My favorite SRI-LANKAN CANTEEN at LOUIS BLANC)
+Place where I used to go every 2 weeks when I lived in the north of Paris, BHARATH is a typical big indian restaurant where you can eat good but cheap food, made with fresh products. I highly recommend the *Koththu Rotti* (SRI-LANKAN specialty) but everything is good. All lhassis and fruit juices are fresh and made on demand.
+
+__Price:__ cheap
+
+__Reservation:__ 
+
+__Address:__ 
+
+__Recommended by:__ [@tpierrain](https://www.twitter.com/tpierrain) 
 
 —- 
 # Italian food
