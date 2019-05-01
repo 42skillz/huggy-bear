@@ -3,7 +3,7 @@ The following list has been made by one of the finest gourmand you can find in t
 
 # French food
 
-### Le jardin d'en face
+### Le jardin d'en face (simple but WELL-CRAFTED cuisine in MONTMARTRE)
 Tiny restaurant of simple but really well-crafted *cuisine* in the middle of Montmartre. All their products are super fresh  Probably one of the best price/quality ratio you can find in that area. Their *oeuf cocotte au foie gras* is so awesome that you can find it both as a starter or as a dessert (for people that regret not having took it as a starter ;-). All fans of chocolate must also try their *gateau chocolat façon grand-mère*. I've never been disapointed by this address but it's been more than a year that I went there.
 
 __Price:__ medium
@@ -17,7 +17,7 @@ __Recommended by:__ [@tpierrain](https://www.twitter.com/tpierrain)
 
 
 
-### Bonvivant
+### Bonvivant (Inventive WINE BAR in Quartier Latin)
 Nice wine bar / wooden bistro chic in the middle of the Quartier Latin (studdents area). Bonvivant tries to smartly reinvent some recipes. I highly recommend the *Burrata des pouilles, betteraves croquantes, huile d'olive et Yuzu* and the *Oeuf mimosa du Bonvivant* (starters) and the *Veritable riz au lait aux amandes caramelisées* (dessert).
 
 __Price:__ medium
@@ -29,7 +29,7 @@ __Address:__ 7 Rue des Écoles, 75005 Paris - +33 1 43 26 51 34
 __Recommended by:__ [@tpierrain](https://www.twitter.com/tpierrain)
 
 
-### A NOSTE (chic pub with basque tapas)
+### A NOSTE (PUB-like with crazy basque tapas next to OPERA)
 Nice place for big group. There are some long tables where you can order excellent and original tapas. YOU MUST TRY the *Chipirons frits aux piments d´espelettes*...
 
 __Price:__ medium-high
@@ -45,8 +45,8 @@ __Recommended by:__ [@tpierrain](https://www.twitter.com/tpierrain) and [@brunob
 ---
 # Veggie-Vegan food
 
-### Le potager du Marais
-Apparently one of the best VEGGIE restaurant of Paris (I experienced it twice but I'm not an expert ;-). Tiny place (reservation mandatory) but really good and fresh *cuisine*.
+### Le potager du Marais (Best VEGGIE restaurant in PARIS?)
+Apparently one of the best VEGGIE restaurant of Paris (I experienced it twice but I'm not an expert ;-). Tiny place (reservation mandatory) but really good, original and fresh *cuisine*.
 
 __Price:__ medium
 
@@ -60,7 +60,7 @@ __Recommended by:__ [@tpierrain](https://www.twitter.com/tpierrain)
 —-
 # Thai/ laos food
 
-### Lao Lane Xang
+### Lao Lane Xang (Excellent LAO-THAI)
 Excellent Thai and Laotian restaurant Located in Paris' Chinatown. The food is good, the place is nice and clean. Their *Steak Lao* is awesome (beef 'entrecote' with chilli peppers and fresh aromatic herbs)  
 
 __Price:__ medium
@@ -75,7 +75,7 @@ __Recommended by:__ [@tpierrain](https://www.twitter.com/tpierrain)
 —-
 # Japanese food
 
-### Hokkaido (ramens and other traditionnal japanese food)
+### Hokkaido (CLASSICAL but really good RAMENS & Co)
 My favorite classical Ramen restaurant in Paris (next to OPERA). The place has been fully renewed, but this is an old institution. Everything is simple but good.
 
 __Price:__ cheap
@@ -87,7 +87,7 @@ __Address:__ next to OPERA - 14 Rue Chabanais, 75002 Paris - +33 1 42 60 50 95
 __Recommended by:__ [@tpierrain](https://www.twitter.com/tpierrain) 
 
 
-### KODAWARI RAMEN (high quality and original Ramens)
+### KODAWARI RAMEN (high quality and ORIGINAL RAMENS)
 Discovered recently thanks to Laurent DOGUIN, I'm crazy about it. Top quality products, reinvented recipes of Ramens, Japanese sounds recorded in the streets played as background ambiance. YOU MUST try it if you are 2 or 3 people to eat because the only drawback is the size of this tiny shop. Highly recommended
 
 __Price:__ cheap-medium
@@ -106,7 +106,7 @@ __Recommended by:__ [@ldoguin](https://mobile.twitter.com/ldoguin) and [@tpierra
 —- 
 # Italian food
 
-### Il barone
+### Il barone (Best pastas you can find in PARIS?)
 The place is tiny, decorated like an old episode of Sopranos, but all pastas are fresh and made here. This is simply the best pastas you can find in Paris. Their *gnocchis alla rucola* are just completely crazy ;-)
 
 __Price:__  medium-high
