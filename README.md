@@ -3,6 +3,20 @@ The following list has been made by one of the finest gourmand you can find in t
 
 # French food
 
+### Le jardin d'en face
+Tiny restaurant of simple but really well-crafted *cuisine*. Probably one of the best price/quality ratio you can find in Montmartre. Their *oeuf cocotte au foie gras* is so awesome that you can find it both as a starter or as a dessert (for people that regret not having took it as a starter ;-). I've never been disapointed by this addresse but it's been more than a year that I went there
+
+__Price:__ medium
+
+__Reservation:__ mandatory
+
+__Address:__ Near *les Abbesses* (MONTMARTRE) 29 Rue des Trois Frères, 75018 Paris - +33 1 53 28 00 75
+
+__Recommended by:__ [@tpierrain](https://www.twitter.com/tpierrain)
+
+
+
+
 ### Bonvivant
 Nice wine bar / wooden bistro chic in the middle of the Quartier Latin (studdents area). Bonvivant tries to smartly reinvent some recipes. I highly recommend the *Burrata des pouilles, betteraves croquantes, huile d'olive et Yuzu* and the *Oeuf mimosa du Bonvivant* (starters) and the *Veritable riz au lait aux amandes caramelisées* (dessert).
 
