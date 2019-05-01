@@ -114,6 +114,24 @@ __Recommended by:__ [@tpierrain](https://www.twitter.com/tpierrain)
 
 ---
 
+# VIETNAMESE FOOD
+
+### Chao Sapa (HEALTHY VIETNAMESE RESTAURANT) ![group](./group.jpg)
+Excellent and healthy Pho soups, Bo-Buns, sticky rice cooked in bamboo stick with chicken, etc.
+
+![pic](/images/chaoSapa.png)
+
+__Price:__ low-medium
+
+__Reservation:__ highly recommended
+
+__Address:__ Port Royal - 50 Boulevard du Montparnasse 75014 - +33 1 43 21 03 48
+
+__Recommended by:__ [@tpierrain](https://www.twitter.com/tpierrain)
+
+
+---
+
 # JAPANESE FOOD
 
 ### Hokkaido (CLASSICAL but really good RAMENS & Co)
