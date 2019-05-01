@@ -15,6 +15,20 @@ __Address:__ 7 Rue des Écoles, 75005 Paris - +33 1 43 26 51 34
 __Recommended by:__ [@tpierrain](https://www.twitter.com/tpierrain)
 
 
+---
+# Veggie food
+
+### Le potager du Marais
+Apparently one of the best VEGGIE restaurant of Paris (but I.m not an expert ;-). Tiny place (reservation mandatory) but really good and fresh *cuisine*.
+
+__Price:__ medium
+
+__Reservation:__ recommended
+
+__Address:__ in the center of Paris, 24 Rue Rambuteau, 75003 Paris - +33 1 57 40 98 57
+
+__Recommended by:__ [@tpierrain](https://www.twitter.com/tpierrain)
+
 
 —-
 # Thai/ laos food
