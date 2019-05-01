@@ -1,9 +1,15 @@
 # Our best food recommendations in Paris
 The following list has been made by one of the finest gourmand you can find in the IT sphere in PARIS ;-)
 
+#### Legend: 
+![radis](./radis.gif): veggie friendly
+
+![group](./group.gif): group friendly
+
+---
 # AFRICAN FOOD
 
-### WALY-FAY (NY-STYLE LOFT, JAZZ AND TOP-NOTCH WEST AFRICAN CUISINE)
+### WALY-FAY (NY-STYLE LOFT, JAZZ AND TOP-NOTCH WEST AFRICAN CUISINE) ![radis](./radis.gif) ![group](./group.gif)
 Soft light and typical fabrics for West African specialties to be accompanied with very good wine , rhum or (real) ginger juice. Everything is good in that place where you can also go with a group (but reservation needed). One must try the african-syle roasted chicken. One of the coolest restaurant in PARIS IMO.
 
 __Price:__ medium-high
@@ -46,7 +52,7 @@ __Recommended by:__ [@tpierrain](https://www.twitter.com/tpierrain)
 
 
 
-### A NOSTE (PUB-like with crazy basque tapas next to OPERA)
+### A NOSTE (PUB-like with crazy basque tapas next to OPERA) ![radis](./radis.gif) ![group](./group.gif)
 Nice place for big group. There are some long tables where you can order excellent and original tapas. YOU MUST TRY the *Chipirons frits aux piments d´espelettes*...
 
 __Price:__ medium-high
@@ -62,7 +68,7 @@ __Recommended by:__ [@tpierrain](https://www.twitter.com/tpierrain) and [@brunob
 ---
 # VEGGIE-VEGAN FOOD
 
-### Le potager du Marais (Best VEGGIE restaurant in PARIS?)
+### Le potager du Marais (Best VEGGIE restaurant in PARIS?) ![radis](./radis.gif) 
 Apparently one of the best VEGGIE restaurant of Paris (I experienced it twice but I'm not an expert ;-). Tiny place (reservation mandatory) but really good, original and fresh *cuisine*.
 
 __Price:__ medium
@@ -107,7 +113,7 @@ __Recommended by:__ [@tpierrain](https://www.twitter.com/tpierrain)
 
 
 
-### KODAWARI RAMEN (high quality and ORIGINAL RAMENS)
+### KODAWARI RAMEN (high quality and ORIGINAL RAMENS) ![radis](./radis.gif) 
 Discovered recently thanks to Laurent DOGUIN, I'm crazy about it. Top quality products, reinvented recipes of Ramens, Japanese sounds recorded in the streets played as background ambiance. YOU MUST try it if you are 2 or 3 people to eat because the only drawback is the size of this tiny shop. Highly recommended
 
 __Price:__ cheap-medium
@@ -123,7 +129,7 @@ __Recommended by:__ [@ldoguin](https://mobile.twitter.com/ldoguin) and [@tpierra
 
 # INDIAN FOOD
 
-### BHARATH (My favorite SRI-LANKAN CANTEEN at LOUIS BLANC)
+### BHARATH (My favorite SRI-LANKAN CANTEEN at LOUIS BLANC) ![radis](./radis.gif) ![group](./group.gif)
 Place where I used to go every 2 weeks when I lived in the north of Paris, BHARATH is a typical big indian restaurant where you can eat good but cheap food, made with fresh products. I highly recommend the *Koththu Rotti* (SRI-LANKAN specialty) but everything is good. All lhassis and fruit juices are fresh and made on demand.
 
 __Price:__ cheap
@@ -138,7 +144,7 @@ __Recommended by:__ [@tpierrain](https://www.twitter.com/tpierrain)
 
 # ITALIAN FOOD
 
-### Il barone (Best pastas you can find in PARIS?)
+### Il barone (Best pastas you can find in PARIS?) ![radis](./radis.gif) 
 The place is tiny, decorated like an old episode of Sopranos, but all pastas are fresh and made here. This is simply the best pastas you can find in Paris. Their *gnocchis alla rucola* are just completely crazy ;-)
 
 __Price:__  medium-high
