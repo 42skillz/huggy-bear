@@ -1,7 +1,20 @@
-# Our restaurant best recommendations in Paris
+# Our best food recommendations in Paris
 The following list has been made by one of the finest gourmand you can find in the It sphere in PARIS ;-)
 
 # French food
+
+### Bonvivant
+Nice wine bar / wooden bistro chic in the middle of the Quartier Latin (studdents area). Bonvivant tries to smartly reinvent some recipes. I highly recommend the *Burrata des pouilles, betteraves croquantes, huile d'olive et Yuzu* and the *Oeuf mimosa du Bonvivant* (starters) and the *Veritable riz au lait aux amandes caramelisées* (dessert).
+
+__Price:__ medium
+
+__Reservation:__ recommended
+
+__Address:__ 7 Rue des Écoles, 75005 Paris - +33 1 43 26 51 34
+
+__Recommended by:__ [@tpierrain](https://www.twitter.com/tpierrain)
+
+
 
 —-
 # Thai/ laos food
@@ -30,7 +43,7 @@ __Recommended by:__ [@tpierrain](https://www.twitter.com/tpierrain)
 ### Il barone
 The place is tiny, decorated like an old episode of Sopranos, but all pastas are fresh and made here. This is simply the best pastas you can find in Paris. Their *gnocchis alla rucola* are just completely crazy ;-)
 
-__Price:__  high
+__Price:__  medium-high
 
 __Reservation:__ mandatory up to 4 people
 
