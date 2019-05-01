@@ -4,7 +4,7 @@ The following list has been made by one of the finest gourmand you can find in t
 # French food
 
 ### Le jardin d'en face
-Tiny restaurant of simple but really well-crafted *cuisine* in the middle of Montmartre. All their products are super fresh  Probably one of the best price/quality ratio you can find in that area. Their *oeuf cocotte au foie gras* is so awesome that you can find it both as a starter or as a dessert (for people that regret not having took it as a starter ;-). All fans of chocolate must also try their *gateau chocolat façon grand-mère*. I've never been disapointed by this addresse but it's been more than a year that I went there.
+Tiny restaurant of simple but really well-crafted *cuisine* in the middle of Montmartre. All their products are super fresh  Probably one of the best price/quality ratio you can find in that area. Their *oeuf cocotte au foie gras* is so awesome that you can find it both as a starter or as a dessert (for people that regret not having took it as a starter ;-). All fans of chocolate must also try their *gateau chocolat façon grand-mère*. I've never been disapointed by this address but it's been more than a year that I went there.
 
 __Price:__ medium
 
@@ -29,11 +29,24 @@ __Address:__ 7 Rue des Écoles, 75005 Paris - +33 1 43 26 51 34
 __Recommended by:__ [@tpierrain](https://www.twitter.com/tpierrain)
 
 
+### A NOSTE (chic pub with basque tapas)
+Nice place for big group. There are some long tables where you can order excellent and original tapas. YOU MUST TRY the *Chipirons frits aux piments d´espelettes*...
+
+__Price:__ medium-high
+
+__Reservation:__ recommended
+
+__Address:__ next to OPERA - 6 bis Rue du 4 septembre, 75002 Paris - +33 1 47 03 91 91
+
+__Recommended by:__ [@tpierrain](https://www.twitter.com/tpierrain) and [@brunoboucard](https://www.twitter.com/brunoboucard)
+
+
+
 ---
-# Veggie food
+# Veggie-Vegan food
 
 ### Le potager du Marais
-Apparently one of the best VEGGIE restaurant of Paris (but I.m not an expert ;-). Tiny place (reservation mandatory) but really good and fresh *cuisine*.
+Apparently one of the best VEGGIE restaurant of Paris (I experienced it twice but I'm not an expert ;-). Tiny place (reservation mandatory) but really good and fresh *cuisine*.
 
 __Price:__ medium
 
@@ -75,7 +88,7 @@ __Recommended by:__ [@tpierrain](https://www.twitter.com/tpierrain)
 
 
 ### KODAWARI RAMEN (high quality and original Ramens)
-Discovered recently thanks to Laurent DOGUIN, I'm crazy about it. Top quality products, reinvented recipes of Ramens, Japanese sounds recorded in the streets as background ambiance. YOU MUST try it if you are 2 or 3 people to eat because the only drawback is the size of this tiny shop. Highly recommended
+Discovered recently thanks to Laurent DOGUIN, I'm crazy about it. Top quality products, reinvented recipes of Ramens, Japanese sounds recorded in the streets played as background ambiance. YOU MUST try it if you are 2 or 3 people to eat because the only drawback is the size of this tiny shop. Highly recommended
 
 __Price:__ cheap-medium
 
