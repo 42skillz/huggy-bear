@@ -98,7 +98,7 @@ __Recommended by:__ [@tpierrain](https://www.twitter.com/tpierrain)
 
 # THAI/LAOTIAN FOOD
 
-### Lao Lane Xang (Excellent LAO-THAI)
+### Lao Lane Xang (Excellent LAO-THAI) ![radis](./radis.gif) ![group](./group.jpg)
 Excellent Thai and Laotian restaurant Located in Paris' Chinatown. The food is good, the place is nice and clean. Their *Steak Lao* is awesome (beef 'entrecote' with chilli peppers and fresh aromatic herbs)  
 
 ![pic](/images/laoLang.png)
