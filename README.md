@@ -4,12 +4,12 @@ The following list has been made by one of the finest gourmand you can find in t
 #### Legend: 
 ![radis](./radis.gif): veggie friendly
 
-![group](./group.gif): group friendly
+![group](./group.jpg): group friendly
 
 ---
 # AFRICAN FOOD
 
-### WALY-FAY (NY-STYLE LOFT, JAZZ AND TOP-NOTCH WEST AFRICAN CUISINE) ![radis](./radis.gif) ![group](./group.gif)
+### WALY-FAY (NY-STYLE LOFT, JAZZ AND TOP-NOTCH WEST AFRICAN CUISINE) ![radis](./radis.gif) ![group](./group.jpg)
 Soft light and typical fabrics for West African specialties to be accompanied with very good wine , rhum or (real) ginger juice. Everything is good in that place where you can also go with a group (but reservation needed). One must try the african-syle roasted chicken. One of the coolest restaurant in PARIS IMO.
 
 __Price:__ medium-high
@@ -52,7 +52,7 @@ __Recommended by:__ [@tpierrain](https://www.twitter.com/tpierrain)
 
 
 
-### A NOSTE (PUB-like with crazy basque tapas next to OPERA) ![radis](./radis.gif) ![group](./group.gif)
+### A NOSTE (PUB-like with crazy basque tapas next to OPERA) ![radis](./radis.gif) ![group](./group.jpg)
 Nice place for big group. There are some long tables where you can order excellent and original tapas. YOU MUST TRY the *Chipirons frits aux piments d´espelettes*...
 
 __Price:__ medium-high
@@ -129,7 +129,7 @@ __Recommended by:__ [@ldoguin](https://mobile.twitter.com/ldoguin) and [@tpierra
 
 # INDIAN FOOD
 
-### BHARATH (My favorite SRI-LANKAN CANTEEN at LOUIS BLANC) ![radis](./radis.gif) ![group](./group.gif)
+### BHARATH (My favorite SRI-LANKAN CANTEEN at LOUIS BLANC) ![radis](./radis.gif) ![group](./group.jpg)
 Place where I used to go every 2 weeks when I lived in the north of Paris, BHARATH is a typical big indian restaurant where you can eat good but cheap food, made with fresh products. I highly recommend the *Koththu Rotti* (SRI-LANKAN specialty) but everything is good. All lhassis and fruit juices are fresh and made on demand.
 
 __Price:__ cheap
